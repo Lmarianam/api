@@ -78,8 +78,3 @@ Cómo ejecutar el proyecto
 
 4. Acceder a la API desde el navegador o el Postman:
    http://127.0.0.1:8000/companies/
-
-Notas finales
--------------
-Este proyecto está pensado como una API de aprendizaje, creada en clase. 
-Se puede ampliar con facilidad empleando Django REST Framework para lograr una API más sólida y profesional.
