@@ -81,5 +81,4 @@ Cómo ejecutar el proyecto
 
 Notas finales
 -------------
-Este proyecto está pensado como una API de aprendizaje, creada en clase. 
-Se puede ampliar con facilidad empleando Django REST Framework para lograr una API más sólida y profesional.
+Este proyecto se realizo en una clase de programación, con el fin de aprender a crear una API.
